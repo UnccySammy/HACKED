@@ -1,0 +1,10 @@
+body{
+    background-image: url('https://www.coindesk.com/resizer/ADSVwbZ9tR7qqg3t29LkjVwB_Bg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GNYP26OXSRH3TCU6ISRYQPUW34.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
